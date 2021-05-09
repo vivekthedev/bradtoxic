@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek
 - 👀 I’m interested in Web App Development
 - 🌱 I’m currently learning django,open CV
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django Projects
 - 📫 How to reach me vivekhappy786@gmail.com
 
 <!---
